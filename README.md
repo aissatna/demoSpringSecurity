@@ -1,2 +1,2 @@
 # demoSpringSecurity
-Developing spring boot app usnig JWT access/refresh tokens
+Developing spring boot rest api usnig JWT access/refresh tokens
